@@ -1,4 +1,4 @@
-# 
+# Enhance JetBrains PyCharm for PC | JetBrains PyCharm for Windows with custom JetBrains PyCharm for PC | JetBrains PyCharm for Windows Extension | snippets + code-navigation, the
 
 
 
